@@ -1,4 +1,4 @@
 {
-  "test": "rspec fizzbuzz_spec.rb",
+  "test": "gradle test",
   "allowNewFile": false
 }

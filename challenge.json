@@ -1,0 +1,4 @@
+{
+  "test": "rspec fizzbuzz_spec.rb",
+  "allowNewFile": false
+}
